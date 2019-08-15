@@ -8,9 +8,9 @@ language_tabs: # must be one of https://git.io/vQNgJ
   - javascript
 
 includes:
-  - configs
+  - metadatas
   - tasks
-  - datas
+  - admins
   - errors
 
 search: true
